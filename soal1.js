@@ -1,4 +1,4 @@
-// soal no 2
+// soal no 1
 // created by Argietha Septyani
 // created date 17/06/2023
 
